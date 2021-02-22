@@ -1,25 +1,29 @@
 
 {
     "datosPedido": 
-        {
-            "cedulaCliente": "116870545",
-            "tipoCedulaCliente": "1",
-            "nombreCliente": "Brayan Canales",
-            "telefono": "85516391",
-            "fechaInstalacionServicio": "12/02/2021",
-            "numeroPlan": "1",
-            "fechaCreacionOST": "02/02/2021",
-            "fechaEjecucion": "05/02/2021",
-            "EstadoOrdenSIMO": "normal",
-            "CodigoAccionSIMO": "1",
-            "DescripcionAccionSIMO": "Prueba",
-            "movimientos": ["RCOM","RE1","RE9","EX17"],
-            "indicadorHogaresConectados": "1",
-            "indicadorPyme": "1",
-            "indicadorFonatel": "1",
-            "codigoTerminal": "1",
-            "usuarioConfeccion": "bcanales"
-            
-        }
-    
+
+    {
+          "idSistema": "1",
+          "codigoUsuarioConfeccion": "1",
+          "orden": "1225",
+          "tipoTecnologia": "4",
+          "existeOrden": "1",
+          "cedulaCliente": "116870545",
+          "tipoCedulaCliente": "1",
+          "nombreCliente": "Brayan Canales",
+          "cedulaRepresentante": "Brayan Canales",
+          "nombreRepresentante": "116870545",
+          "telefono": "85516391",
+          "numeroPlan": "1",
+          "fechaInstalacionServicio": "12/02/2021",
+          "fechaCreacion": "12/02/2021",
+          "fechaEjecucion": "12/02/2021",
+          "estadoOrdenSIMO": "normal",
+          "codigoAccionSIMO": "1",
+          "descripcionAccionSIMO": "VALUE",
+          "movimientos": ["RCOM","RE1","RE9","EX17"],
+          "indicadorPyme": "1",
+          "indicadorFonatel": "1",
+          "codigoTerminal": "1"
+    }
 }
