@@ -7,7 +7,7 @@
           "codigoUsuarioConfeccion": "1",
           "orden": "1225",
           "tipoTecnologia": "4",
-          "existeOrden": "0",
+          "existeOrden": "1",
           "cedulaCliente": "116870545",
           "tipoCedulaCliente": "1",
           "nombreCliente": "Brayan Canales",
@@ -23,7 +23,7 @@
           "descripcionAccionSIMO": "VALUE",
           "movimientos": ["RCOM","RE1","RE9","EX17"],
           "indicadorPyme": "1",
-          "indicadorFonatel": "1",
+          "indicadorFonatel": "0",
           "codigoTerminal": "1"
     }
 }
