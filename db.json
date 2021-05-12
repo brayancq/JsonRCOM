@@ -23,7 +23,7 @@
           "descripcionAccionSIMO": "VALUE",
           "movimientos": ["RCOM","RE1","RE9","EX17"],
           "indicadorPyme": "1",
-          "indicadorFonatel": "0",
+          "indicadorFonatel": "1",
           "codigoTerminal": "1"
     }
 }
